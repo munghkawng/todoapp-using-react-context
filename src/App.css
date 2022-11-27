@@ -1,0 +1,13 @@
+.form-control {
+  padding: 0.5rem;
+  margin: 0 0.5rem;
+}
+
+li {
+  padding: 0.5rem 0;
+}
+
+button {
+  cursor: pointer;
+  margin: 0 0.5rem;
+}
